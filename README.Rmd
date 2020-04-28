@@ -1,0 +1,7 @@
+---
+output: github_document
+---
+
+# Add a title
+
+Explan what your package is doing here
