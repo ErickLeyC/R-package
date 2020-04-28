@@ -1,0 +1,13 @@
+template:
+params:
+bootswatch: cyborg
+
+reference:
+
+navbar:
+left:
+- text: Reference
+href: reference/index.html
+right:
+- icon: fa-githubh
+ref: https://github.com/ErickLeyC/R-package
