@@ -110,3 +110,4 @@ MC_gui = function(){
   appDir = system.file("MC_int", package = "Class")
   shiny::runApp(appDir, display.mode = "normal")
 }
+
